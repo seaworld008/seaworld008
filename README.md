@@ -52,7 +52,7 @@
 | --- | --- |
 | [天空AI API 中转站](https://api.skyai.icu) | 注册、充值、创建 API 密钥、查看用量 |
 | [天空AI使用指南](https://api.skyai.icu/guide/) | 配置 Codex、Claude Code 和兼容工具 |
-| [天空AI Skills 专题页](https://api.skyai.icu/skills/) | 了解技能库、安装方式和推荐起步路径 |
+| [天空AI Skills 专题页](https://api.skyai.icu/skills) | 了解技能库、安装方式和推荐起步路径 |
 | [Commonly-used-high-value-skills](https://github.com/seaworld008/Commonly-used-high-value-skills) | 73+ stars 的技能仓库与完整文档 |
 | [SkyAIApp 官网](https://skyaiapp.vercel.app) | 产品、开发者文档与 AI 基础设施思路 |
 
@@ -65,7 +65,7 @@
 
 - **SkyAI** — an independently operated AI API gateway for connecting Codex, Claude Code, OpenAI SDKs, and other clients through one documented endpoint: [api.skyai.icu](https://api.skyai.icu).
 - **Commonly-used-high-value-skills** — a 73+ star skills library for Codex, Claude Code, OpenClaw, and agent workflows: [open the repository](https://github.com/seaworld008/Commonly-used-high-value-skills).
-- **Skills special** — the SkyAIApp page explains what the skills cover, how to install them, and where to start: [api.skyai.icu/skills/](https://api.skyai.icu/skills/).
+- **Skills special** — the SkyAIApp page explains what the skills cover, how to install them, and where to start: [api.skyai.icu/skills/](https://api.skyai.icu/skills).
 
 Model availability, pricing, and upstream terms are determined by the live service and its applicable providers. See the public documentation before use.
 
