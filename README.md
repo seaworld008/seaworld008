@@ -65,7 +65,7 @@
 
 - **SkyAI** — an independently operated AI API gateway for connecting Codex, Claude Code, OpenAI SDKs, and other clients through one documented endpoint: [api.skyai.icu](https://api.skyai.icu).
 - **Commonly-used-high-value-skills** — a 73+ star skills library for Codex, Claude Code, OpenClaw, and agent workflows: [open the repository](https://github.com/seaworld008/Commonly-used-high-value-skills).
-- **Skills special** — the SkyAIApp page explains what the skills cover, how to install them, and where to start: [skyaiapp.vercel.app/skills](https://api.skyai.icu/guide/skills/).
+- **Skills special** — the SkyAIApp page explains what the skills cover, how to install them, and where to start: [api.skyai.icu/guide/skills/](https://api.skyai.icu/guide/skills/).
 
 Model availability, pricing, and upstream terms are determined by the live service and its applicable providers. See the public documentation before use.
 
